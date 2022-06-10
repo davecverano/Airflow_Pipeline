@@ -1,0 +1,1 @@
+curl -L $1 | gsutil cp - gs://$2/dags/data/in_data.csv

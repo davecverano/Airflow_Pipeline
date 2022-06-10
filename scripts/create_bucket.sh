@@ -1,0 +1,1 @@
+gsutil ls -p $1 -b gs://$2 || gsutil mb -p $1 gs://$2
