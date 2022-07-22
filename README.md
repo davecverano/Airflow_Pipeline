@@ -5,6 +5,8 @@
 ![Dags_example](https://user-images.githubusercontent.com/49330823/180494629-e4ac049b-dd49-416e-9a6c-e7200607b98c.JPG)
 ![Airflow_tree_view](https://user-images.githubusercontent.com/49330823/180496356-58840724-9034-4b4f-b233-3ce284b5e393.JPG)
 
+Note: As you can tell, I ran into alot of errors while making it 😆
+
 ### Intro
 
 The goal of this task is to create a pipeline in Apache Airflow that:
