@@ -2,9 +2,8 @@
 
 ### Finished Project Demo
 
-![Pipeline_demo](https://user-images.githubusercontent.com/49330823/180491231-53d69f0b-01ac-45ab-b6cf-cbee2f27641b.JPG)
 ![Dags_example](https://user-images.githubusercontent.com/49330823/180494629-e4ac049b-dd49-416e-9a6c-e7200607b98c.JPG)
-
+![Airflow_tree_view](https://user-images.githubusercontent.com/49330823/180496356-58840724-9034-4b4f-b233-3ce284b5e393.JPG)
 
 ### Intro
 
