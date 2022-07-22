@@ -14,11 +14,11 @@ The goal of this task is to create a pipeline in Apache Airflow that:
 2. Loads information from a url that downloads a file such as a .csv file from a website like kaggle
 3. Stores the file into the bucket in Google Cloud Storage
 4. Loads the file into BigQuery and performs desired queries onto the dataset
-5. transfers queries into local computer
+5. Transfers queries into local computer
 
 ### Tools
 
-Apache Airflow
-Google Cloud 
-Bash
-Python
+Apache Airflow  
+Google Cloud  
+Bash  
+Python  
