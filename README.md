@@ -9,6 +9,8 @@ Note: As you can tell, I ran into alot of errors while making it 😆
 
 ### Intro
 
+This is a personal project to practice creating DAGS in Google Composer.
+
 The goal of this task is to create a pipeline in Apache Airflow that:
 1. Creates a bucket in Google Cloud Storage for a particular project
 2. Loads information from a url that downloads a file such as a .csv file from a website like kaggle
